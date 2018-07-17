@@ -1,1 +1,5 @@
 data.db
+
+dir/*
+
+!dir/file1.html
